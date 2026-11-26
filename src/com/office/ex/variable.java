@@ -38,7 +38,7 @@ public class variable {
 	
 	float pi = 3.14f;
 	
-	char a = 'a'
+	char a = 'a';
 	
 	String str = "abcdefg";
 	
@@ -71,7 +71,7 @@ public class variable {
 	// int 나의돈 = 500; (x)
 	
 	// 3. 변수명은 데이터의 의미를 쉽게 파악 할 수 있도록 작명한다.(*****)
-	int score = 100;
+	int Score = 100;
 	// int s= 100; (x)
 	
 	String player = "son";
@@ -96,9 +96,9 @@ public class variable {
 	// int public = 100; 
 	
 	// 6. '_'or '$'를 제외한 특수문자 사용 금지
-	int score!;
-	int score^^;
-	int score@;
+	//int score!;
+	//int score^^;
+	//int score@;
 	int sco__________re;
 	int sco$$$$$$r___$$e;
 	
@@ -129,7 +129,7 @@ public class variable {
 	
 	myNum = 20;
 	
-	int yourNum = myNum // 20 - - > 데이터 복사(copy)
+	int yourNum = myNum;// 20 - - > 데이터 복사(copy)
 	System.out.println("myNum:"+ myNum); //20 
 	System.out.println("yourNum:" + yourNum); //20
 	
