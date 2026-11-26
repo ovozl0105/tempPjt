@@ -7,7 +7,7 @@ public class InputOutput {
 	public static void main(String[] args) {
 		
 		/*
-		 * 1. 데이터 출력 System.our.println()		ln = line
+		 * 1. 데이터 출력 System.out.println()		ln = line
 		 */
 		
 		int num = 1000;
