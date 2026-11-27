@@ -110,7 +110,5 @@ public class datatype {
 		str1 = "A";
 		// str1 = 'A';
 		
-	
-		
 	}
 }

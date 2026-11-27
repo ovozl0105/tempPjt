@@ -97,6 +97,7 @@ public class Formatter {
 				"Hong", 'M', 20);  // String은 당장 출력하는 기능은 아니지만, 특정 형식에 맞춰서 문자열을 생산해야 할때 사용 한다 
 		System.out.println(str);
 		
+	
 	}
 
 }
